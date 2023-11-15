@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Queue
+comment1.params=
+comment1.target=Queue()
+comment2.params=element
+comment2.target=void\ enqueue(Cake)
+comment3.params=
+comment3.target=Cake\ dequeue()
+comment4.params=
+comment4.target=Cake\ getFront()
+numComments=5
